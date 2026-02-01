@@ -1,0 +1,12 @@
+<html>
+<body>
+    <title>UR UR, UR UR UR</title>
+        <header>Верхний текст</header>
+        <main>UR UR, UR UR UR</main>
+        <img src="https://avatars.mds.yandex.net/i?id=a1aebecf8937ead6ccc0311f2c5df581_l-10239192-images-thumbs&n=13"/></img src>
+    <form>
+        <input type="text">Если ты зашёл на этот сайт, ты крутой?</input type>
+        <footer>Нижний текст</footer>
+    </form>
+</body>
+</html>
